@@ -1,0 +1,3 @@
+Sesi01 Github Link : https://github.com/dennytandiono/OCBC-Python/tree/main/sesi01
+Sesi02 Github Link : https://github.com/dennytandiono/OCBC-Python/tree/main/sesi02
+Assignment 1 Github Link : https://github.com/dennytandiono/OCBC-Python/tree/main/assignment1
